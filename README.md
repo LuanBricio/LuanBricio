@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Luan Bricío 👋</h1>
 
 <h2 align="center"> Hi, I'm a Computer Science student 🤓📚💻 </h2>
-<h3> I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in JavaScript, HTML, CSS, C# and Python by building web apps whit React and Flask or Django (or unity, if it's a game) that aren't just beautiful, but are enjoyable to use and really problemsolvers </h3>
+<h3> I create ideas and develop solutions in the shape of software using my creativity and my technical knowledge in JavaScript, HTML, CSS, C# and Python by building web apps whit React and Flask or Django that aren't just beautiful, but are enjoyable to use and really problemsolvers </h3>
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanBricio&theme=dracula&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/LuanBricio)
