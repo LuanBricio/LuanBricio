@@ -1,5 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=LuanBricio.LuanBricio)
-<h1>Hi there, I'm Luan Bricío 👋</h1>
+<h1 align="center">Hi there, I'm Luan Bricío 👋</h1>
 
 <h2 align="center"> Hi, I'm a Computer Science student 🤓📚💻 </h2>
 
