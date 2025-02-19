@@ -17,8 +17,8 @@
 <img alt="Js" width="42" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 <img alt="CSHARP" width="42" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img alt="Python" width="42" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img alt="VSCode" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></p>
-
+<img alt="VSCode" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="React" width="42" height="42" src="https://i.ibb.co/Qvwfk0xz/react-light.png" /></p>
 ---
 
 <div> 
